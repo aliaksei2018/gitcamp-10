@@ -1,2 +1,3 @@
-This is a greoject!
-versione
+This is a great project!
+versione 1.0
+Created by Bender and Fry
