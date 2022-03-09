@@ -1,2 +1,2 @@
-This is a great project!
-version 1.0
+This is a greoject!
+versione
