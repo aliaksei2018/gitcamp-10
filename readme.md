@@ -1,3 +1,6 @@
 This is a great project!
 versione 1.0
-created by to greate programmers
+
+Developed by Bender and Fry
+
+Greatest program ever
