@@ -1,7 +1,4 @@
 Master changes
-This is a great project!
-versione 1.0
+Experimental changes(Dangerous!!!)
 
-Developed by Bender and Fry
 
-Greatest program ever
